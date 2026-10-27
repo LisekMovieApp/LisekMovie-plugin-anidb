@@ -40,4 +40,4 @@ Tests run against a local `wiremock` server; nothing calls the real service.
 
 ## License
 
-[PolyForm Noncommercial 1.0.0](https://github.com/LisekMovieApp/LisekMovie-app/blob/main/LICENSE), as LisekMovie itself.
+[MIT](LICENSE), like LisekMovie itself.

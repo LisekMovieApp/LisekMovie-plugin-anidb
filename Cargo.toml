@@ -3,7 +3,7 @@ name = "lisek-plugin-anidb"
 description = "aniDB (HTTP API) anime metadata provider extension for LisekMovie."
 version = "1.0.0-beta"
 edition = "2024"
-license = "PolyForm-Noncommercial-1.0.0"
+license = "MIT"
 repository = "https://github.com/LisekMovieApp/LisekMovie-plugin-anidb"
 
 [dependencies]
